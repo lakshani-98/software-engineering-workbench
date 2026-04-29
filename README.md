@@ -4,26 +4,6 @@ An AI-powered web tool that generates solution architecture recommendations from
 
 ---
 
-## 🎥 Demo
-
-> <img width="1310" height="615" alt="image" src="https://github.com/user-attachments/assets/056cf048-3ef4-4af9-8934-143ac2beda7e" />
-
-><img width="1332" height="626" alt="image" src="https://github.com/user-attachments/assets/1e2eacf3-3eb9-4585-b65c-39bb4f87c6b4" />
-
-><img width="1331" height="622" alt="image" src="https://github.com/user-attachments/assets/7e02a5df-aa34-482a-811e-18c188504480" />
-
-><img width="1320" height="617" alt="image" src="https://github.com/user-attachments/assets/2ecc930d-42f8-4d66-ae14-1219eca588bb" />
-
-><img width="1332" height="617" alt="image" src="https://github.com/user-attachments/assets/2416a249-2e37-4394-b112-601c7cceb459" />
-
-><img width="1330" height="611" alt="image" src="https://github.com/user-attachments/assets/b42bcc7b-abd9-4207-8062-fddd27d77213" />
-
-
-
-
-
----
-
 ## ✨ Features
 
 - 🤖 **AI-Generated Architecture** — Uses Google Gemini 2.5 Flash to analyse requirements and recommend an appropriate architecture pattern from a catalogue of ten recognised styles.
@@ -156,3 +136,19 @@ The frontend will start at `http://localhost:5173`.
 | 💰 Cost-Optimized | Prefers serverless and managed services, flags cost risks |
 | ⚡ Low Latency | Favours event-driven patterns and caching layers |
 | 📋 Regulatory Compliance | Adds audit logging, access controls, and governance decisions |
+
+---
+
+## 🎥 Demo
+
+> <img width="1310" height="615" alt="image" src="https://github.com/user-attachments/assets/056cf048-3ef4-4af9-8934-143ac2beda7e" />
+
+><img width="1332" height="626" alt="image" src="https://github.com/user-attachments/assets/1e2eacf3-3eb9-4585-b65c-39bb4f87c6b4" />
+
+><img width="1331" height="622" alt="image" src="https://github.com/user-attachments/assets/7e02a5df-aa34-482a-811e-18c188504480" />
+
+><img width="1320" height="617" alt="image" src="https://github.com/user-attachments/assets/2ecc930d-42f8-4d66-ae14-1219eca588bb" />
+
+><img width="1332" height="617" alt="image" src="https://github.com/user-attachments/assets/2416a249-2e37-4394-b112-601c7cceb459" />
+
+><img width="1330" height="611" alt="image" src="https://github.com/user-attachments/assets/b42bcc7b-abd9-4207-8062-fddd27d77213" />
