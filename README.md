@@ -7,6 +7,10 @@ An AI-powered web tool that generates solution architecture recommendations from
 ## 🎥 Demo
 
 > <img width="1310" height="615" alt="image" src="https://github.com/user-attachments/assets/056cf048-3ef4-4af9-8934-143ac2beda7e" />
+<img width="1331" height="622" alt="image" src="https://github.com/user-attachments/assets/7e02a5df-aa34-482a-811e-18c188504480" />
+<img width="1332" height="626" alt="image" src="https://github.com/user-attachments/assets/1e2eacf3-3eb9-4585-b65c-39bb4f87c6b4" />
+
+
 
 
 ---
